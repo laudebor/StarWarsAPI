@@ -21,7 +21,7 @@ Before setting up the application you need to have installed:
 ### 1. Clone the repository:
 
 ``` bash
-git clone https://github.com/laudebor/StarwarsAPI.git
+git clone https://github.com/laudebor/StarWarsAPI.git
 ```
 
 ### 2. Navigate to the project folder
