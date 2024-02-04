@@ -27,7 +27,7 @@ git clone https://github.com/laudebor/StarWarsAPI.git
 ### 2. Navigate to the project folder
 
 ``` bash
-cd StarwarsAPI/StarWarsAPI
+cd StarWarsAPI/StarWarsAPI
 ```
 
 ### 3. Build the project
